@@ -1,0 +1,38 @@
+{
+    "basic_concepts": [
+        {
+            "title": "Understanding Personal Finance",
+            "content": "Personal finance is about managing your money and financial decisions. It includes budgeting, saving, investing, and planning for your future.",
+            "image_url": "https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e"
+        },
+        {
+            "title": "Budgeting Basics",
+            "content": "A budget is a financial plan that helps you track income and expenses. It's the foundation of financial success.",
+            "image_url": "https://images.unsplash.com/photo-1484981138541-3d074aa97716"
+        }
+    ],
+    "investment_fundamentals": [
+        {
+            "title": "Getting Started with Investments",
+            "content": "Investing is putting money into financial products with the expectation of generating returns over time.",
+            "image_url": "https://images.unsplash.com/photo-1444653389962-8149286c578a"
+        },
+        {
+            "title": "Understanding Risk and Return",
+            "content": "Higher potential returns typically come with higher risk. Diversification helps manage risk.",
+            "image_url": "https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20"
+        }
+    ],
+    "success_stories": [
+        {
+            "title": "Sarah's Journey to Financial Independence",
+            "content": "From paying off debt to building a diverse investment portfolio, Sarah's story inspires women to take control of their finances.",
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf"
+        },
+        {
+            "title": "Maria's Investment Success",
+            "content": "How Maria built a successful retirement portfolio while balancing career and family.",
+            "image_url": "https://images.unsplash.com/photo-1557804506-669a67965ba0"
+        }
+    ]
+}

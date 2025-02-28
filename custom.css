@@ -1,0 +1,29 @@
+.stApp {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.hero-image {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.calculator-container {
+    background-color: #FFF0F5;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.education-card {
+    border: 1px solid #FFB6C1;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+
+.success-story {
+    background-color: #F8F9FA;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px 0;
+}
